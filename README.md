@@ -10,12 +10,12 @@ Write tests for the following, and then make the tests pass!
 
 * A caesarCipher function that takes a string and returns it with each character “shifted”.
 
- * Don’t forget to test wrapping from z to a.
+1. * Don’t forget to test wrapping from z to a.
 
- * Don’t forget to test keeping the same case.
+2. * Don’t forget to test keeping the same case.
 
- * Don’t forget to test punctuation!
+3. * Don’t forget to test punctuation!
 
- * For this one, you may want to split the final function into a few smaller functions. One concept of Testing is that you don’t need to explicitly test every function you write… Just the public ones. So in this case you only need tests for the final caesarCipher function. If it works as expected you can rest assured that your smaller helper functions are doing what they’re supposed to.
+4. * For this one, you may want to split the final function into a few smaller functions. One concept of Testing is that you don’t need to explicitly test every function you write… Just the public ones. So in this case you only need tests for the final caesarCipher function. If it works as expected you can rest assured that your smaller helper functions are doing what they’re supposed to.
 
 * An analyzeArray function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
